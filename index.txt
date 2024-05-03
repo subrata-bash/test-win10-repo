@@ -1,1 +1,2 @@
-Just a simple file
+Just a simple file. I just a line in my Mac OS and hope it will work on windows
+10 also.
